@@ -5,9 +5,7 @@ A **Streamlit-based web application** for detecting potato leaf diseases using a
 ---
 
 ## 🌟 Try for Yourself
-https://potato-leaf-disease-model.streamlit.app/
 
----
 
 ## 🚀 Features
 - Upload an image of a potato leaf 🍃
@@ -17,23 +15,6 @@ https://potato-leaf-disease-model.streamlit.app/
 
 ---
 
-## 🛠️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/yourusername/Potato-Leaf-Disease-Detection.git
-cd Potato-Leaf-Disease-Detection
-```
-
-### 2️⃣ Install Dependencies
-```sh
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Streamlit App
-```sh
-streamlit run app.py
-```
 
 ---
 
@@ -61,18 +42,4 @@ You can deploy this Streamlit app using:
 
 ---
 
-## 📝 License
-This project is open-source.
-
 ---
-
-## 🌟 Acknowledgments
-- **TensorFlow/Keras** for deep learning support
-- **Streamlit** for the interactive web app
-
----
-
-## 🤝 Contributing
-Pull requests are welcome! If you'd like to improve this project, feel free to fork and contribute. 🎯
-
-📩 Need help? Feel free to contact me!
