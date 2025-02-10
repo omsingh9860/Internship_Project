@@ -5,6 +5,7 @@ A **Streamlit-based web application** for detecting potato leaf diseases using a
 ---
 
 ## 🌟 Try for Yourself
+https://potatointernship1.streamlit.app/
 
 
 ## 🚀 Features
